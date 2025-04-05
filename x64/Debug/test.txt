@@ -1,4 +1,0 @@
-print("xd")
-for i=0,50,1 do
-print(tostring(i))
-end
