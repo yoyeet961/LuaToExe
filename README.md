@@ -2,6 +2,8 @@
 ## Description
 A simple program to convert Lua files to EXE files. The result is a folder with 3 files in it: the program, lua53.dll, and an unreadable version of the Lua script. The Lua version is 5.3.5.
 
+Currently only supported on Windows.
+
 ## How to Use
 To use the program, open LuaToExe.exe, type the **full** path into it and press Enter. Now there will be an `output` folder in the same directory as the executable, containing your Lua program.
 
