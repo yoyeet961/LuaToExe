@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruvi\\source\\repos\\LuaToExe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{964D6D69-73F6-406E-893C-C65844B7AC43}|LuaToExe\\LuaToExe.vcxproj|C:\\Users\\Ruvi\\source\\repos\\LuaToExe\\LuaToExe\\LuaToExe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{964D6D69-73F6-406E-893C-C65844B7AC43}|LuaToExe\\LuaToExe.vcxproj|solutionrelative:LuaToExe\\LuaToExe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF421FB0-6324-4DA7-9FA5-E0B77C431088}|LuaToExeBINARY\\LuaToExeBINARY.vcxproj|C:\\Users\\Ruvi\\source\\repos\\LuaToExe\\LuaToExeBINARY\\LuaToExeBINARY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF421FB0-6324-4DA7-9FA5-E0B77C431088}|LuaToExeBINARY\\LuaToExeBINARY.vcxproj|solutionrelative:LuaToExeBINARY\\LuaToExeBINARY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LuaToExeBINARY.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruvi\\source\\repos\\LuaToExe\\LuaToExeBINARY\\LuaToExeBINARY.cpp",
+              "RelativeDocumentMoniker": "LuaToExeBINARY\\LuaToExeBINARY.cpp",
+              "ToolTip": "C:\\Users\\Ruvi\\source\\repos\\LuaToExe\\LuaToExeBINARY\\LuaToExeBINARY.cpp",
+              "RelativeToolTip": "LuaToExeBINARY\\LuaToExeBINARY.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T19:41:56.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LuaToExe.cpp",
+              "DocumentMoniker": "C:\\Users\\Ruvi\\source\\repos\\LuaToExe\\LuaToExe\\LuaToExe.cpp",
+              "RelativeDocumentMoniker": "LuaToExe\\LuaToExe.cpp",
+              "ToolTip": "C:\\Users\\Ruvi\\source\\repos\\LuaToExe\\LuaToExe\\LuaToExe.cpp",
+              "RelativeToolTip": "LuaToExe\\LuaToExe.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T19:39:37.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
